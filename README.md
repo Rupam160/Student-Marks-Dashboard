@@ -24,5 +24,5 @@ A simple interactive dashboard to manage student marks with a table and a bar ch
 [Click here to watch the demo](https://drive.google.com/file/d/15HnLi5-1zJRIgL-dtEUfQZGjNu3tq_Rg/view?usp=sharing)
 
 ## Visit site
-[Click here to watch the demo](https://rupam160.github.io/Student-Marks-dashboard/)
+[Click here](https://rupam160.github.io/Student-Marks-dashboard/)
 
