@@ -19,8 +19,7 @@ A simple interactive dashboard to manage student marks with a table and a bar ch
    ```sh
    git clone https://github.com/Rupam160/Student-Marks-Dashboard.git
    cd Student-Marks-Dashboard
-## Demo
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Demo
+
+[Click here to watch the demo](https://drive.google.com/file/d/15HnLi5-1zJRIgL-dtEUfQZGjNu3tq_Rg/view?usp=sharing)
+
