@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Marks Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Student Marks Dashboard</h1>
+
+    <button onclick="toggleSelection()">Select</button>
+    <button id="deleteBtn" class="hidden" onclick="deleteSelected()">Delete</button>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Marks</th>
+                <th id="selectHeader" class="hidden">Select</th>
+            </tr>
+        </thead>
+        <tbody id="studentTable"></tbody>
+    </table>
+
+    <input type="text" id="nameInput" placeholder="Enter student name">
+    <input type="number" id="marksInput" placeholder="Enter marks">
+    <button onclick="addStudent()">Add Student</button>
+
+    <canvas id="marksChart"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>
